@@ -1,0 +1,8 @@
+/home/devy/Projects/DCC/catalog-services-etl/src/test/groovy/com/dealer/catalogsvcs/etl/contract/ContractJobIntegrationSpec.groovy
+/home/devy/Projects/DCC/catalog-services-etl/src/test/groovy/com/dealer/catalogsvcs/etl/contract/#ContractJobIntegrationSpec.groovy#
+/home/devy/Projects/DCC/catalog-services-etl/src/main/resources/jobs/contractJob.xml
+/home/devy/Projects/DCC/catalog-services-etl/src/main/resources/jobs/#contractJob.xml#
+/home/devy/Projects/DCC/catalog-services-etl/src/main/groovy/com/dealer/catalogsvcs/etl/EtlJobLauncherService.groovy
+/home/devy/Projects/DCC/catalog-services-etl/src/main/groovy/com/dealer/catalogsvcs/etl/#EtlJobLauncherService.groovy#
+/home/devy/Projects/DCC/catalog-services-etl/src/test/groovy/com/dealer/catalogsvcs/etl/catalog/OfferV2JobIntegrationSpec.groovy
+/home/devy/Projects/DCC/catalog-services-etl/src/test/groovy/com/dealer/catalogsvcs/etl/catalog/#OfferV2JobIntegrationSpec.groovy#

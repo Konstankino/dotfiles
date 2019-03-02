@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Jan 15 15:30:13 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22651 56277 391389 951000) (desktop . "208") "dev@base" nil nil ((((tty-type . "screen-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#DCDCCC") (menu-bar-lines . 0) (background-color . "#3F3F3F") (font . "tty") (height . 55) (width . 191) (modeline . t) (unsplittable) (frameset--id . "A71D-E6EF-5650-745B") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 191) (pixel-height . 54) (total-width . 191) (total-height . 54) (normal-height . 1.0) (normal-width . 1.0) (buffer "user.js" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 2) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 2010) (start . 1281))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/dev/Projects/BearCode/cabbot/cart/app/models/user.js"
+  "user.js"
+  'js-mode
+  '(undo-tree-mode autopair-mode helm-mode projectile-mode yas-minor-mode company-mode relative-line-numbers-mode)
+  2010
+  '(2010 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (2010 2010 2010 2010 1313))))
+
+(desktop-create-buffer 208
+  "/home/dev/Projects/BearCode/cabbot/cart/test/unit/shop_test.js"
+  "shop_test.js"
+  'js-mode
+  '(undo-tree-mode autopair-mode helm-mode projectile-mode yas-minor-mode company-mode relative-line-numbers-mode)
+  183
+  '(183 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (183))))
+

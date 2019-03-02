@@ -1,0 +1,242 @@
+;;; -*- coding: utf-8 -*-
+(("/home/dev/Projects/BearCode/cabbot/cart/config.js" . 585)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/order.js" . 1414)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/eventbus.js" . 12638)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/controllers/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/development/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/middlewares/development/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/middlewares/production"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/production/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/middlewares/production/stacktrace.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/user.js" . 1693)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/order.js" . 6610)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/base.html" . 627)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/order/show.html" . 136)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/header.html" . 917)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/application.js" . 3482)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/auth.js" . 420)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/helpers/utils.js" . 1633)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app.js" . 582)
+ ("/home/dev/Projects/BearCode/cabbot/cart/router.js" . 100)
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/production/stacktrace.js" . 2)
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/sessions.js" . 714)
+ ("/home/dev/Projects/BearCode/cabbot/cart/middlewares/views.js" . 530)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/bootstrap-theme.css" . 27662)
+ ("/home/dev/.emacs" . 2375)
+ ("/home/dev/Downloads/"
+  (dired-filename . "/home/dev/Downloads/dfr"))
+ ("/home/dev/Downloads/dfr/"
+  (dired-filename . "/home/dev/Downloads/dfr/#foo.out#"))
+ ("/home/dev/Projects/"
+  (dired-filename . "/home/dev/Projects/.."))
+ ("/home/dev/"
+  (dired-filename . "/home/dev/Downloads"))
+ ("/home/dev/Downloads/dfr/Clear99000.htm" . 189604)
+ ("/home/dev/Downloads/dfr/Boston358500.htm" . 413434)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/auth/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/auth/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/shop"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shop/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/shop/index.html"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/shop.js" . 1502)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shop/index.html" . 158)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/2_create_orders.sql" . 1488)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/kit.js" . 663)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/error.html" . 46)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/auth/failed.html" . 155)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/cart.js" . 528)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/models/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/db/8_create_shipping_methods.sql"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/file-processor.js" . 1009)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/order/index.html" . 8756)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/order-item.js" . 2265)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/services/odata-factory.js" . 1916)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/services/item-odata.js" . 1812)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/item.js" . 3818)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import/app.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import/app.js" . 1782)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/3_create_users.sql" . 187)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/0_create_tables.sql" . 2271)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/customer.js" . 584)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/shipping-method.js" . 405)
+ ("/home/dev/Projects/Rust/paths/src/"
+  (dired-filename . "/home/dev/Projects/Rust/paths/src/.."))
+ ("/home/dev/Projects/Rust/paths/"
+  (dired-filename . "/home/dev/Projects/Rust/paths/Cargo.toml"))
+ ("/home/dev/Projects/Rust/"
+  (dired-filename . "/home/dev/Projects/Rust/paths"))
+ ("/home/dev/Projects/Rust/paths/src/main.rs" . 190)
+ ("/home/dev/Projects/Rust/paths/Cargo.toml" . 83)
+ ("/home/dev/Projects/block-select/index.html" . 222)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/cart/show.html" . 2351)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/status.js" . 91)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import/config.js" . 5021)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/1_create_shipping_addresses.sql" . 874)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/seeds/1_create_addresses.sql" . 234)
+ ("/home/dev/Projects/BearCode/cabbot/cart/README.md" . 1087)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/10_load_shipping_methods.sql" . 207)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/7_create_order_items.sql" . 985)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/6_create_kits.sql" . 184)
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/5_load_shipping_types.sql" . 3)
+ ("/home/dev/Projects/BearCode/cabbot/cart/lib/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/lib/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/odata-form-component.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/fonts"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/order/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/order/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/config.js" . 1332)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/typeahead.js" . 1449)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/odata-form-component.js" . 3612)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/jexpandable.js" . 1241)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/link-handler.js" . 741)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/services/address-odata.js" . 136)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/jmodifiable.js" . 1331)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/head.html" . 2725)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/cart-item.js" . 1218)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/cart.js" . 646)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/inventory.js" . 1457)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/services/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/services/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/base.html"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/cart-review-item.js" . 1224)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/cart-review.js" . 2306)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/instrument.js" . 118)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/indexer.js" . 2112)
+ ("/home/dev/Projects/BearCode/cabbot/cart/package.json" . 432)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/shipping-address.js" . 851)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/services/azure-poster.js" . 2)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/shipping-type.js" . 412)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/address/index.html" . 617)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/order/edit.html" . 1788)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/app.js" . 196)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/adapters/mssql.js" . 346)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/address/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/address/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/cart/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/views/cart/show.html"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/seeds/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/db/seeds/.."))
+ ("/home/dev/Projects/BearCode/cabbot/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/views"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/views/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/views/messages"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/views/messages/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/views/messages/index.html"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/controllers/address.js" . 469)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/stateable.js" . 4130)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/templates/shared.js" . 129)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shop/error.html" . 34)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/wizard.css" . 2002)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/cart-preview.js" . 1600)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/react.js" . 379971)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/requestor.js" . 990)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/file-processor.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/seeds/0_create_users.sql" . 18)
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/views/messages/index.html" . 2212)
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/public/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/lib"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/lib/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/lib/requireable.js"))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/lib/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/kiosk/lib/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/test/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/test/factories"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/test/factories/" . 194)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/components/.."))
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/lib/requireable.js" . 1255)
+ ("/home/dev/Projects/BearCode/cabbot/kiosk/public/javascripts/application.js" . 543)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/wizard.js" . 13512)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/app.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/templates/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/templates/shared.js"))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/backend.js" . 267)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/app.js" . 592)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/indexer/utils.js" . 222)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/config.js" . 338)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/lib/treeview.js" . 353)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/utils.js" . 282)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/INSTALL" . 90)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/data-import/INSTALL" . 90)
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/adapters/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/adapters/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/helpers/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/app/helpers/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/.git/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/.git/.."))
+ ("/home/dev/Projects/Rust/sandbox/datastructs/src/main.rs" . 225)
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/node_modules/"
+  (dired-filename . "/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/node_modules/.."))
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/package.json" . 227)
+ ("/home/dev/Projects/Ruby/servato/app/models/user.rb" . 7697)
+ ("/home/dev/Projects/Ruby/school.io/app/controllers/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/controllers/.."))
+ ("/home/dev/Projects/Ruby/school.io/app/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views"))
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/shared/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/layouts/shared/.."))
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/admin/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/layouts/admin/.."))
+ ("/home/dev/Projects/Ruby/school.io/app/views/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/layouts"))
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/layouts/application.html.haml"))
+ ("/home/dev/Projects/Ruby/school.io/app/views/documentation/" . 199)
+ ("/home/dev/Projects/Ruby/school.io/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app"))
+ ("/home/dev/Projects/Ruby/school.io/app/views/parent/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/parent/.."))
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/parent/"
+  (dired-filename . "/home/dev/Projects/Ruby/school.io/app/views/layouts/parent/_navigation.haml"))
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/parent/_navigation.haml" . 1152)
+ ("/home/dev/Projects/Ruby/school.io/app/controllers/documentation_controller.rb" . 60)
+ ("/home/dev/Projects/Ruby/school.io/app/views/layouts/application.html.haml" . 889)
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/sortable-theme-bootstrap.css" . 2747)
+ ("/home/dev/IdeaProjects/untitled/src/"
+  (dired-filename . "/home/dev/IdeaProjects/untitled/src/com"))
+ ("/home/dev/IdeaProjects/untitled/src/com/"
+  (dired-filename . "/home/dev/IdeaProjects/untitled/src/com/company"))
+ ("/home/dev/IdeaProjects/untitled/src/com/company/"
+  (dired-filename . "/home/dev/IdeaProjects/untitled/src/com/company/testproject"))
+ ("/home/dev/IdeaProjects/untitled/src/com/company/testproject/"
+  (dired-filename . "/home/dev/IdeaProjects/untitled/src/com/company/testproject/Main.java"))
+ ("/home/dev/IdeaProjects/untitled/src/com/company/testproject/Main.java" . 352)
+ ("/home/dev/Projects/Ruby/servato/"
+  (dired-filename . "/home/dev/Projects/Ruby/servato/.."))
+ ("/home/dev/Projects/Ruby/"
+  (dired-filename . "/home/dev/Projects/Ruby/aprexis-etl"))
+ ("/home/dev/.tmuxinator/cabot_cart.yml" . 9)
+ ("/home/dev/.emacs.d/manual-install/groovy-mode.el" . 16563)
+ ("/home/dev/.tmuxinator/scheduler.yml" . 116)
+ ("/home/dev/.tmuxinator/cabbot_kiosk.yml" . 1016)
+ ("/home/dev/.i3/config" . 5386)
+ ("/home/dev/Desktop/"
+  (dired-filename . "/home/dev/Desktop/.."))
+ ("/home/dev/.tmuxinator/aprexis_utils.yml" . 1007))

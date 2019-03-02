@@ -1,0 +1,16 @@
+/home/devy/Projects/iform/deployment/stage/.ebextensions/01-nginx-proxy.config
+/home/devy/Projects/iform/deployment/stage/.ebextensions/#01-nginx-proxy.config#
+/home/devy/Projects/iform/config/unicorn.rb
+/home/devy/Projects/iform/config/#unicorn.rb#
+/home/devy/Projects/iform/config/environments/production.rb
+/home/devy/Projects/iform/config/environments/#production.rb#
+/home/devy/Projects/iform/deployment/stage/Dockerrun.aws.json.template
+/home/devy/Projects/iform/deployment/stage/#Dockerrun.aws.json.template#
+/home/devy/Projects/iform/deployment/stage/Dockerrun.aws.json
+/home/devy/Projects/iform/deployment/stage/#Dockerrun.aws.json#
+/home/devy/Projects/iform/deployment/production/.ebextensions/01-nginx-proxy.config
+/home/devy/Projects/iform/deployment/production/.ebextensions/#01-nginx-proxy.config#
+/home/devy/Projects/iform/deployment/stage/proxy/nginx.conf
+/home/devy/Projects/iform/deployment/stage/proxy/#nginx.conf#
+/home/devy/Projects/iform/scripts/http_host
+/home/devy/Projects/iform/scripts/#http_host#

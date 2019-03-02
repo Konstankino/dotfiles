@@ -1,0 +1,91 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/dev/Projects/Cabot/" . "cabotorders/")
+ ("/home/dev/Projects/" . "Cabot/")
+ ("/home/dev/" . "Projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/dev/Projects/Ruby/school.io/app/models/"
+ "/home/dev/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/models/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/api/v1/order/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/api/"
+ "/home/dev/Projects/BearCode/cabbot/cart/"
+ "/home/dev/Projects/BearCode/cabbot/cart/lib/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/"
+ "/home/dev/Projects/BearCode/cabbot/cart/tasks/user-pool/"
+ "/home/dev/Projects/BearCode/cabbot/cart/db/seeds/"
+ "/home/dev/Projects/BearCode/cabbot/cart/db/"
+ "/home/dev/Projects/BearCode/securities/securities/web/security/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/api/order/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/views/address/"
+ "/home/dev/Projects/BearCode/cabbot/cart/app/views/order/"
+ "/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/"
+ "/home/dev/Projects/Ruby/servato/"
+ "/home/dev/Projects/Cabot/cabotorders/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "model.js"
+ "controller.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/dev/Projects/Ruby/school.io/app/models/" (22663 55364 290250 776000) "form_folder.rb" ".keep" "student.rb" "parent.rb" "stripe.rb" "./" "parent_student.rb" "company.rb" "concerns/" "form.rb" "question.rb" "setting.rb" "audit.rb" "employee.rb" "admin.rb" "../" "stripe/" "form_assignment.rb" "user.rb" "company_subscription.rb" "activity.rb" "answer.rb")
+
+ ("/home/dev/" (22662 31801 192586 905000) ".rbenv/" ".zshrc.pre-oh-my-zsh" "odata.pdf" ".bash_logout" ".dbus/" "jdk1.8.0_91/" "IdeaProjects/" ".lesshst" "Handbags" ".bash_profile" ".zsh-update" ".wget-hsts" ".hplip/" ".bundle/" ".tmuxinator/" ".java/" ".cache/" ".nano/" ".gnome2/" ".zcompdump-base-5.1.1" ".emacs.d/" ".i3/" ".zshrc" ".viminfo" ".multirust/" "Projects/" "./" "VirtualBox VMs/" ".profile" ".gitconfig" ".ICEauthority" ".Xauthority" "examples.desktop" ".tmux.conf" "dev.tar.gz" ".ideavimrc" ".vim/" ".bash_history" ".zcompdump" ".sudo_as_admin_successful" ".mozilla/" ".bashrc" ".config/" ".gconf/" "Downloads/" ".local/" ".irssi/" "phantomjs-2.1.1-linux-x86_64.tar.bz2" ".macromedia/" ".ssh/" ".babel.json" ".screenlayout/" ".compiz/" ".thunderbird/" ".oh-my-zsh/" ".mysql_history" ".gnome2_private/" "../" ".IdeaIC2016.1/" ".gnupg/" "getph.sh" ".xsession-errors" ".rustup/" "Desktop/" ".QtWebEngineProcess/" ".pki/" "Templates/" ".cargo/" ".npm/" "Videos/" ".xsession-errors.old" ".emacs" ".adobe/" ".Skype/" "Public/" "be/" "Documents/" ".gnome/" ".gem/" ".oracle_jre_usage/" ".node_repl_history" ".dmrc" ".zsh_history" ".thumbnails/" "phantom.js" ".xsel.log" ".HipChat/" "StudioProjects/" ".android/" "Music/" "Pictures/" ".v8flags.4.5.103.36.dev.json" ".#.emacs")
+
+ ("/home/dev/Projects/BearCode/" (22401 22551 796222 582000) "time/" "./" "django-report-builder/" "securities/" "bear-code-website/" "../" "Java/" "cabbot/" "hugo-freelancer-theme/")
+
+ ("/home/dev/Projects/BearCode/cabbot/" (22555 20856 582274 423000) "Screen Shot 2016-09-26 at 12.54.07 PM.png" "textAzure/" "bootstrap-datepicker/" "./" "select2-4.0.3/" "cart/" "foo/" "../" "DataTables-1.10.12/" "kiosk/" "Screen Shot 2016-09-26 at 12.53.58 PM.png")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/models/" (22662 23725 288925 932000) "shipping-type.js" "shipping-address.js" "order.js" "cooler-type.js" "customer.js" "./" "kit-items.js" "status.js" "shipping-method.js" "../" "item.js" "user.js" "order-item.js")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/javascripts/" (22662 31452 127624 958000) "eventbus.js" "components/" "./" "#eventbus.js#" "../" "application.js" "lib/")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/api/" (22658 29516 343468 761000) "package.json" "heartbeat.js" "./" "app.js" "bin/" "utils.js" "../" "router.js" ".gitignore" "node_modules/" "v1/")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/api/v1/order/" (22658 29094 163645 903000) "validator.js" "./" "model.js" "entrypoint.js" "../")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/" (22658 18426 915519 998000) "db/" "app/" "package.json" "README.md" "public/" "./" ".jshintrc" "middlewares/" "app.js" "npm-debug.log" ".jshintrc-node.json" "bin/" "doc/" "../" "config.js" ".git/" "router.js" "csv/" "tasks/" ".gitignore" "node_modules/" "test/" "lib/" "web.config")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/lib/" (22654 13142 978805 458000) "./" "order-index-upsert.js" "address-index-upsert.js" "../")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/public/stylesheets/lib/" (22639 59615 138580 704000) "bootstrap-theme.css" "./" "select2.min.css" "bootstrap.min.css" "bootstrap-datepicker.min.css" "wizard.css" "../" "jquery.dataTables.min.css" "bootstrap-treeview.css" "sortable-theme-bootstrap.css")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/shared/" (22656 65269 413323 569000) "base.html" "error.html" "./" "success.html" "failed.html" "footer.html" "../" "head.html" "header.html")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/user-pool/" (22640 722 234036 493000) "package.json" "./" "app.js" "adapters/" "../" ".gitignore" "node_modules/" "INSTALL")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/seeds/" (22639 59615 126580 732000) "./" "../" "0_create_users.sql")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/db/" (22639 59615 126580 732000) "012_create_cooler_types.sql" "011_create_shipping_addresses.sql" "./" "005_load_shipping_types.sql" "006_create_kit_items.sql" "004_create_shipping_types.sql" "010_load_shipping_methods.sql" "../" "001_create_tables.sql" "003_create_users.sql" "008_create_order_items.sql" "009_create_shipping_methods.sql" "002_create_orders.sql" "seeds/")
+
+ ("/home/dev/Projects/BearCode/securities/securities/web/security/" (22651 52661 695248 253000) "payment_views.pyc" "admin.py" "./" "models.py" "tests.pyc" "migrations/" "__init__.pyc" "static/" "forms.pyc" "models.pyc" "views.py" "../" "forms.py" "admin.pyc" "templates/" "payment_views.py" "views.pyc" "urls.pyc" "__init__.py" "urls.py" "tests.py")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/api/order/" (22620 14707 474760 357000) "./" "model.js" "controller.js" "../")
+
+ ("/home/dev/Projects/Ruby/servato/" (22612 5805 364682 317000) "log/" "db/" "app/" "README" "Rakefile" "README.md" "public/" "tmp/" "./" "Gemfile.lock" "config/" "monitor/" ".rbenv-gemsets" "spec/" "config.ru" "archive/" "doc/" "Capfile" "ActiViewSignatures" "../" ".git/" ".ruby-version" ".gitignore" ".rspec" "test/" "vendor/" "script/" "lib/" "Gemfile")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/tasks/ir-assets/" (22617 38214 151439 941000) "package.json" "backend.js" "./" "link-handler.js" "app.js" "npm-debug.log" "utils.js" "../" "config.js" "file-processor.js" "requestor.js" ".gitignore" "node_modules/" "INSTALL")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/order/" (22619 61920 901753 710000) "./" "show.html" "edit.html" "../" "index.html")
+
+ ("/home/dev/Projects/BearCode/cabbot/cart/app/views/address/" (22620 5939 669536 634000) "./" "edit.html" "../" "new.html" "index.html")
+
+ ("/home/dev/Projects/Cabot/cabotorders/" (22401 18273 414652 765000) "app/" "package.json" "README.md" "public/" "./" ".jshintrc" "middlewares/" "app.js" ".jshintrc-node.json" "bin/" "doc/" "../" "config.js" ".git/" "router.js" ".gitignore" "node_modules/" "test/" "web.config")
+
+ ("/home/dev/Projects/Cabot/" (22401 18008 267408 955000) "cabotorders/" "./" "../")
+
+ ("/home/dev/Projects/" (22583 123 898921 802000) "captive/" "racer/" "block-select/" "typing/" "Rust/" "./" "Python/" "scheduler/" "sunset/" "virtualenv/" "Ruby/" "DFR/" "Video/" "BearCode/" "datatables/" "bear-code-website/" "foo/" "Cabot/" "../" "bootstrap-3.3.7-dist/" "VTCLA/" "coreos/" "CoreOs/" "myproject/" "JS/" "tmux-mem-cpu-load/" "jQuery-2.2.3/" "hugo-freelancer-theme/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
